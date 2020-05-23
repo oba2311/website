@@ -4,7 +4,7 @@ subtitle:
 email: oba2311@gmail.com
 description: I'm Omer, a product manager focused on data-intensive products.<br /> For the past 10 years I've been working mostly with startups on strategy and products.
 baseurl: "/website" # the subpath of your site, e.g. /blog
-url: # the base hostname & protocol for your site
+url: "https://omerbenami.com" # the base hostname & protocol for your site
 author:
 city: TLV
 country: IL
