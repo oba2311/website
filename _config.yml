@@ -1,8 +1,9 @@
 # site settings
-title: Forty
-subtitle: by HTML5 UP
-email: youremailaddress@gmail.com
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
+title: OBA
+subtitle: 
+email: oba2311@gmail.com
+description: I'm Omer, a product manager focused on data-intensive products.<br /> 
+During the past 10 years I've been working mostly with startups on strategy and products.
 baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
