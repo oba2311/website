@@ -2,7 +2,7 @@
 layout: post
 title: Generic
 description: Lorem ipsum dolor est
-image: assets/images/11330604_1561709637384690_1617399862_n.jpg
+image: assets/images/Screen Shot 2018-03-01 at 14.36.10.png
 nav-menu: true
 ---
 
