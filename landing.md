@@ -2,7 +2,7 @@
 title: Landing
 layout: landing
 description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
-image: assets/images/TwitterBackground.jfif
+image: assets/images/TwitterBackground.jpg
 nav-menu: true
 ---
 
