@@ -1,6 +1,6 @@
 ---
 title: Landing
-layout: landing
+layout: page
 description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
 image: assets/images/11330604_1561709637384690_1617399862_n.jpg
 nav-menu: true
