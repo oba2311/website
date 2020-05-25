@@ -2,7 +2,7 @@
 layout: post
 title: Generic
 description: Lorem ipsum dolor est
-image: assets\images\tableau.png
+image: assets/images/tableau.png
 nav-menu: true
 ---
 
