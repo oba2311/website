@@ -11,14 +11,14 @@ country: IL
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
-tiles-count: 5
+tiles-count: 4
 
 # social settings
 500px_url:
 facebook_url:
-instagram_url: https://instagram.com
-linkedin_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
-twitter_url: https://twitter.com/andrewbanchich
+instagram_url: https://www.instagram.com/omerbenami16/
+linkedin_url: https://www.linkedin.com/in/omer-ben-ami/
+twitter_url: https://twitter.com/Omer_Ben_Ami
 
 # build settings
 markdown: kramdown
