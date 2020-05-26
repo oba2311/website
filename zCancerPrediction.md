@@ -26,7 +26,7 @@ accurately predict whether a tumor is a benign one or malignant. This is an impo
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
-		<a href="generic.html" class="image">
+		<a href="zCancerPrediction.html" class="image">
 			<img src="{% link assets/images/Screen Shot 2018-02-24 at 21.20.53.png %}" alt="" 
 			data-position="center center" />
 		</a>
