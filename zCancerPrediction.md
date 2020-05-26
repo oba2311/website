@@ -2,7 +2,7 @@
 title: Predicting Breast Cancer with Binary Classification 
 layout: page
 description: 'Predicting Breast Cancer with Binary Classification'
-image: assets/images/Screen Shot 2018-02-24 at 21.20.53.png 
+image: assets/images/1.png 
 nav-menu: true
 ---
 
@@ -27,7 +27,7 @@ accurately predict whether a tumor is a benign one or malignant. This is an impo
 <section id="two" class="spotlights">
 	<section>
 		<a href="zCancerPrediction.html" class="image">
-			<img src="{% link assets/images/Screen Shot 2018-02-24 at 21.20.53.png %}" alt="" 
+			<img src="{% link assets/images/1.png %}" alt="" 
 			data-position="center center" />
 		</a>
 		<div class="content">
