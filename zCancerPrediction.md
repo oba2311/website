@@ -26,17 +26,12 @@ accurately predict whether a tumor is a benign one or malignant. This is an impo
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
-		<a href="zCancerPrediction.html" class="image">
-			<img src="{% link assets/images/1.png %}" alt="" 
-			data-position="center center" />
-		</a>
 		<div class="content">
 			<div class="inner">
-				<header class="major">
-					<h3>The Model</h3>
-				</header>
 				<p>
-                The target variable is the observation — malignant or benign. Class distribution: 357 benign, 212 malignant
+                <b>The Model:</b>
+				<br>
+				The target variable is the observation — malignant or benign. Class distribution: 357 benign, 212 malignant
                 Since this is a case-study classic dataset I didn’t need to transform any variable. While numerous variables exist, and there could be a whole study regarding feature selection based on this data, since our focus is on the model specification and not feature selection I will choose only one variable (“Cell.size”) to shed light on model differences.
                 </p>
 				<ul class="actions">
@@ -45,4 +40,44 @@ accurately predict whether a tumor is a benign one or malignant. This is an impo
 			</div>
 		</div>
 	</section>
+	<section>
+		<a href="generic.html" class="image">
+			<img src="{% link assets/images/logit.png %}" alt="" data-position="top center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Logit Model:</h3>
+				</header>
+				<p>We see that Cell.size, which represents the uniformity of the cell size, is used in the logit model such that patients with size that is classified higher than 4 are likely to have malignant tumor.</p>
+			</div>
+		</div>
+	</section>
+
+<section>
+	<a href="generic.html" class="image">
+		<img src="{% link assets/images/probit.png %}" alt="" data-position="25% 25%" />
+	</a>
+	<div class="content">
+		<div class="inner">
+			<header class="major">
+				<h3>Probit Model:</h3>
+			</header>
+			<p>We see that as observed by other models, Cell Size of over ~3.75 is correlated with over 50% risk of malignant tumor. Lastly, let’s add confidence intervals and jitter to the classes, and use the LOWESS so we can see the mass of the data against the predictor:​</p>
+		</div>
+	</div>
 </section>
+
+<section>
+		<a href="generic.html" class="image">
+			<img src="{% link assets/images/1.png %}" alt="" data-position="top center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>LOWESS - LOcally WEighted Scaterplot Smoothing:</h3>
+				</header>
+				<p>We see that as our model predicted, the Cell size indeed encapsulates a lot of the classes characteristic. Much more experimentation can, and should be done in order to prove this correlation; nevertheless, this analysis shows that the cell size is an important predictor when diagnosing tumors.</p>
+			</div>
+		</div>
+	</section>
