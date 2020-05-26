@@ -1,7 +1,7 @@
 ---
-title: Predicting Breast Cancer - Binary Classification 
+title: Predicting Breast Cancer with Binary Classification 
 layout: page
-description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
+description: 'Predicting Breast Cancer with Binary Classification'
 image: assets/images/Screen Shot 2018-02-24 at 21.20.53.png
 nav-menu: true
 ---
