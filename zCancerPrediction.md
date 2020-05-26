@@ -2,7 +2,7 @@
 title: Predicting Breast Cancer with Binary Classification 
 layout: page
 description: 'Predicting Breast Cancer with Binary Classification'
-image: assets/images/Screen Shot 2018-02-24 at 21.20.53.png
+image: assets/images/logit.png
 nav-menu: true
 ---
 
