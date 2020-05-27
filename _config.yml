@@ -2,7 +2,7 @@
 title: OBA
 subtitle: 
 email: oba2311@gmail.com
-description: I'm Omer, a product manager focused on data-intensive products.<br /> For the past 10 years I've been working mostly with startups on strategy and products.
+description: I'm Omer, a product manager focused on data-intensive products.<br /> You can find here my thoughts on product strategy, user-experience data and product design.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://oba2311.github.io/website" # the base hostname & protocol for your site
 author:
@@ -17,7 +17,7 @@ tiles-count: 6
 500px_url:
 facebook_url:
 instagram_url: https://www.instagram.com/omerbenami16/
-linkedin_url: https://www.linkedin.com/in/omer-ben-ami/
+# linkedin_url: https://www.linkedin.com/in/omer-ben-ami/
 twitter_url: https://twitter.com/Omer_Ben_Ami
 
 # build settings
