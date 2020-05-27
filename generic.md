@@ -2,7 +2,7 @@
 layout: post
 title: Ivy-League Schooling and income - web scraping and correlations
 description: Is it worth attending a top-notch college? Would it pay back in the future if you get in?
-image: assets/images/tableau.png
+# image: assets/images/tableau.png
 nav-menu: true
 ---
 
@@ -52,11 +52,11 @@ initViz();
 
 FuzzyWuzzy includes several versions of FuzzyMatch algos, all of which I tried.  With some trial and error, I ended up choosing a combination of fuzz.ratio  and a threshold score (90). The relevant snippet of code looks like this:
 
+![fuzzy](assets/images/fuzzy1.png)
 
 I know that one list contains only 280 items, while the other list was 960 items,  I knew that if I got a match for more than 280 items, then the sinceI started with fuzz.token_set_ratio - algo overfitted.  Starting with 556 matches I incrementally made progress.  After consideration of other algos that are based on phonetic similarity rather than graphic, I consulted a friend who suggested cleaning and tokenizing the data further before giving up on fuzzy. I ended up sticking to fuzzy and spending more time cleaning the data.
 
-As always, all the code can be found on <href= https://github.com/oba2311/HigherEdu_Project GitHub. >
-
+As always, all the code can be found on [GitHub.](https://github.com/oba2311/HigherEdu_Project)
 
 
 
