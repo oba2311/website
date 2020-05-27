@@ -1,5 +1,5 @@
 ---
-title: Designing and integrating C4I system
+title: Designing and integrating a C4I system
 layout: page
 description: 'My experience designing a C4I system to protect Mexican civilians'
 image: assets/images/11330604_1561709637384690_1617399862_n.jpg
@@ -13,7 +13,7 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h2>Designing and integrating C4I system</h2>
+			<h2>Designing and integrating a C4I system</h2>
 		</header>
 		<p>During 2013-2015 I worked with Bird Aerosystems to deisng a unique system for governemnts to protect civic life. </p>
 	</div>
