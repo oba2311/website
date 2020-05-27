@@ -2,7 +2,7 @@
 layout: post
 title: Ivy-League Schooling and income - web scraping and correlations
 description: Is it worth attending a top-notch college? Would it pay back in the future if you get in?
-# image: assets/images/tableau.png
+image: assets/images/tableau.png
 nav-menu: true
 ---
 
