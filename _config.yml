@@ -16,8 +16,8 @@ tiles-count: 6
 # social settings
 500px_url:
 facebook_url:
-instagram_url: https://www.instagram.com/omerbenami16/
-# linkedin_url: https://www.linkedin.com/in/omer-ben-ami/
+# instagram_url: https://www.instagram.com/omerbenami16/
+linkedin_url: https://www.linkedin.com/in/omer-ben-ami/
 twitter_url: https://twitter.com/Omer_Ben_Ami
 
 # build settings
