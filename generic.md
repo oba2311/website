@@ -58,12 +58,12 @@ I know that one list contains only 280 items, while the other list was 960 items
 
 As always, all the code can be found on [GitHub.](https://github.com/oba2311/HigherEdu_Project)
 
-<ul class="actions">
+<!-- <ul class="actions">
 					<li>
-					<!-- <a href="https://www.omerbenami.com/all_posts.html" class="button">Other Posts</a> -->
+					<a href="https://www.omerbenami.com/all_posts.html" class="button">Other Posts</a>
 					<a href="https://www.omerbenami.com" class="button">Other Posts</a>
 					</li>
-				</ul>
+				</ul> -->
 
 ----------
 **The data, as in all projects is limited to publicly available sources. This research was done independently of any institution, it should not be taken as any sort of an official advice whatsoever. The author is not responsible for the accuracy of the data.
