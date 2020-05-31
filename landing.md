@@ -9,6 +9,14 @@ nav-menu: true
 <!-- Main -->
 <div id="main">
 
+<!-- www.omerbenami.com Omer's website
+
+Omer Ben-Ami | Israel | Omer Ben-Ami Projects
+
+and Blog   oba2311@gmail.com
+
+TEL-AVIV -->
+
 <!-- One -->
 <section id="one">
 	<div class="inner">
