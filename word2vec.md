@@ -9,16 +9,20 @@ nav-menu: true
 <!-- Main -->
 <div id="main">
 
-<h3>Intro to Neural Networks with Word2Vec</h3>
 
 <!-- one -->
 <section id="one" class="spotlights">
 	<section>
 		<div class="content">
 			<div class="inner">
+					<header class="major">
+			<h2>Intro to Neural Networks with Word2Vec</h2>
+		</header>
+
 				<p>In this project, I collaborated with Axon-Vision to create deep neural networks introduction for Axon's Deep Learning course. We chose Word2Vec as an application to motivate learning.
 				<br>
 				This tutorial includes youtube videos accompanied with Python code so even beginners can deep dive without too much preparation.
+				<br>
 				<br>
 				Axon's Co-Founder and VP R&D - Head of Deep Learning:​
 				<br>
