@@ -40,11 +40,6 @@ Since this is a case-study classic dataset I didn’t need to transform any vari
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
-		<div class="content">
-			<div class="inner">
-
-			</div>
-		</div>
 	</section>
 	<section>
 		<a class="image">

@@ -22,7 +22,7 @@ nav-menu: true
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
-		<!-- <a href="generic.html" class="image"> -->
+		<!-- <a href="educationVSincome.html" class="image"> -->
 			<img src="{% link assets/images/11330604_1561709637384690_1617399862_n.jpg %}" alt="" 
 			data-position="center center" />
 		<!-- </a> -->
