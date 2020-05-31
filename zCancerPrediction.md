@@ -1,8 +1,8 @@
 ---
-title: Predicting Breast Cancer with Binary Classification 
+title: Predicting Breast Cancer with Binary Classification
 layout: page
-description: 'Predicting Breast Cancer with Binary Classification'
-image: assets/images/1.png 
+description: "Predicting Breast Cancer with Binary Classification"
+image: assets/images/1.png
 nav-menu: true
 ---
 
@@ -17,7 +17,7 @@ nav-menu: true
 		</header>
 		<p>I chose to work with the Wisconsin breast cancer dataset. The question at hand is whether there are characteristics that can
 
-accurately predict whether a tumor is a benign one or malignant. This is an important question since if such characteristics can be found having much predictive power, potentially malignant tumors could be identified earlier and lives will be saved. This is not a truly causal question, since the shape or size of the tumor does not cause it to be malignant, but rather could be highly correlated; therefore, it is more of a descriptive question. For true causal inference, matching or ATE for some treatment should be calculated. Classification tasks such as this one are good to gauge a descriptive understanding.
+accurately predict whether a tumor is a benign one or malignant. This is an important question since if such characteristics can be found having much predictive power, potentially malignant tumors could be identified earlier and lives will be saved. This is not a truly causal question, since the shape or size of the tumor does not cause it to be malignant, but rather could be highly correlated; therefore, it is more of a descriptive question. For true causal inference, matching or for some treatment should be calculated. Classification tasks such as this one are good to gauge a descriptive understanding.
 
 </p>
 	</div>
@@ -41,7 +41,7 @@ accurately predict whether a tumor is a benign one or malignant. This is an impo
 		</div>
 	</section>
 	<section>
-		<a href="generic.html" class="image">
+		<a class="image">
 			<img src="{% link assets/images/logit.png %}" alt="" data-position="top center" />
 		</a>
 		<div class="content">
@@ -55,7 +55,7 @@ accurately predict whether a tumor is a benign one or malignant. This is an impo
 	</section>
 
 <section>
-	<a href="generic.html" class="image">
+	<a class="image">
 		<img src="{% link assets/images/probit.png %}" alt="" data-position="25% 25%" />
 	</a>
 	<div class="content">
@@ -69,7 +69,7 @@ accurately predict whether a tumor is a benign one or malignant. This is an impo
 </section>
 
 <section>
-		<a href="generic.html" class="image">
+		<a class="image">
 			<img src="{% link assets/images/1.png %}" alt="" data-position="top center" />
 		</a>
 		<div class="content">
