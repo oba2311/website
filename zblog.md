@@ -11,8 +11,8 @@ Almost-weekly quick thoughts on product strategy, design and UX.
 
 ---------------------------------------------------------------
 
-<h3>Counting score during Corona</h3>
-<i>Posted on 25-04-2020.</i>
+<h3>Keeping score during Corona</h3>
+<i>Posted on 01-06-2020.</i>
 
 Users care about thier score. That might be obvious but apparently Google's fit team missed it somehow:
 

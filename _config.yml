@@ -6,6 +6,8 @@ description: I'm Omer, a product manager focused on data-intensive products.<br 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://oba2311.github.io/website" # the base hostname & protocol for your site
 author:
+# Google Analytics
+google_analytics: UA-98479292-6
 city: TLV
 country: IL
 
