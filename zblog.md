@@ -21,8 +21,8 @@ Users care about thier score. That might be obvious but apparently Google's fit 
 Product's core-followers would care a lot about their score, especially when it comes to personal benchmarks, and of course when it comes to such an intimate and important data like one's personal progress towards achieving better physical fit.
 
 Alternative  metrics instead of # of steps could have been:
-* allowing users manual logging (so could be pushups, pull ups etc)
-* alllowing users to take videos of themsels (automatically count pushups for example using neural nets)
+* allow users manual logging (so could be pushups, pull ups etc)
+* alllow users to take videos of themsels (automatically count pushups for example using neural nets)
 * allow users to keep accountable to each other so users log for other users.
 * just to name a few options. 
 
