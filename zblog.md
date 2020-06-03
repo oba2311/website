@@ -1,5 +1,5 @@
 ---
-title: All things product.
+title: Blog
 layout: post
 description: 'All things product.'
 image: TBD

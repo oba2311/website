@@ -1,5 +1,5 @@
 ---
-title: Intro to Neural Networks with Word2Vec
+# title: Intro to Neural Networks with Word2Vec
 layout: page
 description: "Intro to Neural Networks with Word2Vec."
 image: assets/images/word2vecgreenbacjground.png
