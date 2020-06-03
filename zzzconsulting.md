@@ -32,5 +32,5 @@ With getRadical I'm working on design aspects and a bit of market analysis to ad
 <!-- Box -->
 <h3>Interested in picking my mind?</h3>
 <div class="box">
-	<p>Get in touch regardin a consulting package via email/Linkedin.</p>
+	<p>Get in touch regarding a consulting package via email/Linkedin.</p>
 </div>
