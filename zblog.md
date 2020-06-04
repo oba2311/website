@@ -46,8 +46,8 @@ Considering that algorithmically the suggestions provided by the autocomplete ar
 * Autocopmlete reduces visual competition allowing users to focus on the search box when designed correctly.
 
 For PMs looking into more details I would recommend the following resources:
-1. https://baymard.com/blog/autocomplete-design
-2. https://services.google.com/fh/files/events/pdf_auto_healthcare_playbook.pdf
+1. [Great autocomplete UX keypoints](https://baymard.com/blog/autocomplete-design)
+2. [Google's design guide including autocomplete chapter](https://services.google.com/fh/files/events/pdf_auto_healthcare_playbook.pdf)
 
 ---------------------------------------------------------------
 <h2>2017 </h2>
