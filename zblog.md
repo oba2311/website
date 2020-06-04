@@ -16,7 +16,7 @@ Almost-weekly quick thoughts on product strategy, design and UX.
 
 Users care about thier score. That might be obvious but apparently Google's fit team missed it somehow:
 
-![alt text](/blog/2020-04-25_google_fit_corona.jpg)
+![google fit](/blog/2020-04-25_google_fit_corona.jpg)
 
 Product's core-followers would care a lot about their score, especially when it comes to personal benchmarks, and of course when it comes to such an intimate and important data like one's personal progress towards achieving better physical fit.
 
@@ -30,7 +30,17 @@ Here's an example for what a small startup probably would have done better - bei
 
 
 ---------------------------------------------------------------
+<h3>Small incremebts that delight users</h3>
+<i>Posted on 25-04-2020.</i>
 
+With the immense promise that AI brings, it is easy to remember how minor increments could sometimes make a difference. Here I share a delightful moment for me as a user - when Google Keep added [autocomplete that works really well for groceries](https://www.forbes.com/sites/anthonykarcz/2016/06/02/google-keep-auto-complete/#343cddcf72a5). 
+
+![google keep autocomplete](/blog/2020-04-25_google_keep.png)
+
+
+
+
+---------------------------------------------------------------
 <h2>2017 </h2>
 <i>Originally Posted on 03-11-2017.</i>
 
