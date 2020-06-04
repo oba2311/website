@@ -39,7 +39,7 @@ TEL-AVIV -->
 				<header class="major">
 					<h3>From concept to a fully-blown product</h3>
 				</header>
-				<p>I was lucky to join the team early in 2013 when we started desining the full product. It was an on-prem wholistic C4I solution from sensors on the ground to dashboard for the operators. What was most interesting for me as a junior PM was that I was able to fully identify was the end user based on my background with 8200 and through that empathy design based on the user true needs.</p>
+				<p>I was lucky to join the team early in 2013 when we started desining the full product. It was an on-prem wholistic C4I solution from sensors on the ground to dashboard for the operators. What was most interesting for me as a junior PM was that I was able to fully identify the end user based on my background with 8200 and through that empathy design based on the user true needs.</p>
 			</div>
 		</div>
 	</section>

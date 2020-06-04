@@ -30,15 +30,24 @@ Here's an example for what a small startup probably would have done better - bei
 
 
 ---------------------------------------------------------------
-<h3>Small incremebts that delight users</h3>
+<h3>Small increments that delight users</h3>
 <i>Posted on 25-04-2020.</i>
 
-With the immense promise that AI brings, it is easy to remember how minor increments could sometimes make a difference. Here I share a delightful moment for me as a user - when Google Keep added [autocomplete that works really well for groceries](https://www.forbes.com/sites/anthonykarcz/2016/06/02/google-keep-auto-complete/#343cddcf72a5). 
+With the immense promise that AI brings, it is easy to remember how small increments could sometimes make a difference. Here I share a delightful moment for me as a user - when Google Keep added [autocomplete that works really well for groceries](https://www.forbes.com/sites/anthonykarcz/2016/06/02/google-keep-auto-complete/#343cddcf72a5). 
 
-![google keep autocomplete](/blog/2020-04-25_google_keep.png)
+![google keep autocomplete](/blog/2020-04-25google_keep.png)
 
+<h4>A quick drill-down explaining why autocomplete is an important UX component:</h4>
+Considering that algorithmically the suggestions provided by the autocomplete are good:
 
+* Users would feel like the porduct "gets them".
+* Users can type less.Obviously, especially when it comes to forms.
+* Autocomplete guides users - allowing both higher degree of assurance regarding a search query, and also some degree of serendipity.
+* Autocopmlete reduces visual competition allowing users to focus on the search box when designed correctly.
 
+For PMs looking into more details I would recommend the following resources:
+1. https://baymard.com/blog/autocomplete-design
+2. https://services.google.com/fh/files/events/pdf_auto_healthcare_playbook.pdf
 
 ---------------------------------------------------------------
 <h2>2017 </h2>
