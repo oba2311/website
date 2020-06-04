@@ -1,5 +1,5 @@
 ---
-title: Blog
+title: User-Focused Gems
 layout: post
 description: 'All things product.'
 image: TBD
@@ -33,7 +33,7 @@ Here's an example for what a small startup probably would have done better - bei
 <h3>Small increments that delight users</h3>
 <i>Posted on 25-04-2020.</i>
 
-With the immense promise that AI brings, it is easy to remember how small increments could sometimes make a difference. Here I share a delightful moment for me as a user - when Google Keep added [autocomplete that works really well for groceries](https://www.forbes.com/sites/anthonykarcz/2016/06/02/google-keep-auto-complete/#343cddcf72a5). 
+With the immense promise that AI brings, it is easy to forget how small increments could sometimes make a difference. Here I share a delightful moment for me as a user - when Google Keep added [autocomplete that works really well for groceries](https://www.forbes.com/sites/anthonykarcz/2016/06/02/google-keep-auto-complete/#343cddcf72a5). 
 
 ![google keep autocomplete](/blog/2020-04-25google_keep.png)
 
@@ -51,9 +51,9 @@ For PMs looking into more details I would recommend the following resources:
 
 ---------------------------------------------------------------
 <h2>2017 </h2>
+<h3>DataScience @ Gartner Innovation Center</h3>
 <i>Originally Posted on 03-11-2017.</i>
 
-<h3>DataScience @ Gartner Innovation Center</h3>
 
 This past summer I was lucky to work for Gartner, at their innovation center in Tel-Aviv, Israel (called "GICI"). I worked as a datascientist on three different projects: one was a BI-style project, one was on a recommendation system, and one focused on ways to leverage big-data.
 
