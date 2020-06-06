@@ -37,7 +37,7 @@ Here's an example for what a small startup probably would have done better - bei
 
 With the immense promise that AI brings, it is easy to forget how small increments could sometimes make a difference. Here I share a delightful moment for me as a user - when Google Keep added [autocomplete that works really well for groceries](https://www.forbes.com/sites/anthonykarcz/2016/06/02/google-keep-auto-complete/#343cddcf72a5). 
 
-![google keep autocomplete](/blog/2020-04-25google_keep.png)
+<img src="{% link /blog/2020-04-25google_keep.png %}" alt="google keep autocomplete" style="max-width:50%;">
 
 <h4>A quick drill-down explaining why autocomplete is an important UX component:</h4>
 Considering that algorithmically the suggestions provided by the autocomplete are good:
