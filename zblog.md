@@ -77,7 +77,7 @@ This past summer I was lucky to work for Gartner, at their innovation center in 
 
 GICI is a really unique place to work at. Decisions are all backed with data, all RD is driven by insights well-thought and structurally-considered. Above all of that, the place feels more like home than an office.
 
-GICI is very open to employee's-led initiatives, so I was asked to give a short lecture regarding my focus on **Datascience for Social Good**.
+GICI is very open to employee's-led initiatives, so I was asked to give a short lecture regarding my focus on _Datascience for Social Good_.
 You can find here the lecture (in 3 parts). I'm drawing on famous case-studies without going too much into technical details. Enjoy!
 
 [Slides](https://prezi.com/view/nYhNk9VbloI4GQgxNpnY/).
