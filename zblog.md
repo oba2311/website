@@ -10,13 +10,15 @@ nav-menu: true
 Almost-weekly quick thoughts on product strategy, design and UX.
 
 ---------------------------------------------------------------
-
+<h2>2020</h2>
 <h3>Keeping score during Corona</h3>
 <i>Posted on 01-06-2020.</i>
 
-Users care about thier score. That might be obvious but apparently Google's fit team missed it somehow:
+Users care about thier score. That might be obvious but apparently Google's fit team missed it this time.
 
-![google fit](/blog/2020-04-25_google_fit_corona.jpg)
+<span class="image right imagerightblog">
+<img src="{% link /blog/2020-04-25_google_fit_corona.jpg %}" alt="">
+</span>
 
 Product's core-followers would care a lot about their score, especially when it comes to personal benchmarks, and of course when it comes to such an intimate and important data like one's personal progress towards achieving better physical fit.
 
@@ -50,9 +52,25 @@ For PMs looking into more details I would recommend the following resources:
 2. [Google's design guide including autocomplete chapter](https://services.google.com/fh/files/events/pdf_auto_healthcare_playbook.pdf)
 
 ---------------------------------------------------------------
+<h2>2019 </h2>
+<h3>Automating banking in the UK</h3>
+<i>Posted on 01-12-2019.</i>
+
+<span class="image right">
+<img src="{% link /blog/lloyds.png %}" alt="">
+</span>
+I was immensly lucky to work with Lloyds Banking, one of the biggest banks in the UK during 2018-2019. One of the projects I was part of was aiming to automate mortgage application over the blockchain. 
+<br>  
+During this super interesting project I worked with representatives from all 10 biggest banks in the UK as well as the FCA and the Bank of England - all in the same room for a couple of months to come up with a solution.
+<br>  
+I co-authored [a whitepaper](https://www.fca.org.uk/innovation/regtech/digital-regulatory-reporting) presenting the solution proposed.
+</p>
+<br>
+
+---------------------------------------------------------------
 <h2>2017 </h2>
 <h3>DataScience @ Gartner Innovation Center</h3>
-<i>Originally Posted on 03-11-2017.</i>
+<i>Posted on 03-11-2017.</i>
 
 
 This past summer I was lucky to work for Gartner, at their innovation center in Tel-Aviv, Israel (called "GICI"). I worked as a datascientist on three different projects: one was a BI-style project, one was on a recommendation system, and one focused on ways to leverage big-data.

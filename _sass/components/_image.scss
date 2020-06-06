@@ -38,6 +38,9 @@ img {
 			float: right;
 			margin: 0 0 1.25em 1.5em;
 			top: 0.25em;
+			&.imagerightblog{
+				max-width:80%;
+			}
 		}
 
 		&.fit {
