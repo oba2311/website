@@ -25,6 +25,26 @@
 			padding-left: 0.5em;
 		}
 
+		&.list{
+			display: flex;
+			list-style: none;
+			text-align: center;
+
+			// li{
+			// 	flex: 1;
+			// 	display: flex;
+			// 	justify-content: center; /* centers them horizontally (instead of text-align: center) */
+			// 	align-items: center; /* and vertically */
+			// 	height: 50px;
+			// }
+		}
+
+
+		@media (max-width: 568px) {
+			#list {flex-direction: column} /* stacks flex-items vertically */
+		  }
+
+		  
 		&.alt {
 			list-style: none;
 			padding-left: 0;
