@@ -18,17 +18,24 @@
 
 	ul {
 		display: flex;
-		list-style: disc;
+		// list-style: disc;
 		margin: 0 0 _size(element-margin) 0;
-		padding-left: 1em;
+		// padding-left: 1em;
+		@include vendor('display', 'flex');
+		@include vendor('flex-wrap', 'wrap');
+		border-top: 0 !important;
+
+		& + * {
+			border-top: 0 !important;
+		}
 
 		li {
-			flex: 1;
+			flex: 2;
 			display: flex;
 			justify-content: center;
 			align-items: center;
-			margin: .23em auto;
-			padding: 2em;
+			// margin: .23em auto;
+			padding: 0.5em;
 		}
 
 		&.list{
