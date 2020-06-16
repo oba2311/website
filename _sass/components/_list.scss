@@ -17,26 +17,24 @@
 	}
 
 	ul {
+		display: flex;
 		list-style: disc;
 		margin: 0 0 _size(element-margin) 0;
 		padding-left: 1em;
 
 		li {
-			padding-left: 0.5em;
+			flex: 1;
+			display: flex;
+			justify-content: center;
+			align-items: center;
+			margin: .23em auto;
+			padding: 2em;
 		}
 
 		&.list{
 			display: flex;
 			list-style: none;
 			text-align: center;
-
-			// li{
-			// 	flex: 1;
-			// 	display: flex;
-			// 	justify-content: center; /* centers them horizontally (instead of text-align: center) */
-			// 	align-items: center; /* and vertically */
-			// 	height: 50px;
-			// }
 		}
 
 
