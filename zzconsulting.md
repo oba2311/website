@@ -16,7 +16,7 @@ Broad areas I can help with are listed below:
 3. **Developing a product roadmap** (and setting metrics for your team to make your CFO happy again).
 4. **Product interviewing** (and career planning).
 
-<h3>My current Consulting work</h3>
+<h3>My current consulting work</h3>
 <p><span class="image left">
 <a href="http://www.getsorted.de/">
 <img src="{% link assets/images/sorted.png %}">
