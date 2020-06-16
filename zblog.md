@@ -64,7 +64,6 @@ I was immensly lucky to work with Lloyds Banking, one of the biggest banks in th
 During this super interesting project I worked with representatives from all 10 biggest banks in the UK as well as the FCA and the Bank of England - all in the same room for a couple of months to come up with a solution.
 <br>  
 I co-authored [a whitepaper](https://www.fca.org.uk/innovation/regtech/digital-regulatory-reporting) presenting the solution proposed.
-</p>
 <br>
 
 ---------------------------------------------------------------
