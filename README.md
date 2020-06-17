@@ -1,4 +1,4 @@
-Here is where my personal site is hosted (gh-pages).
+My personal site is hosted here (gh-pages).
 
 # Credits
 
