@@ -1,6 +1,6 @@
 My personal site is hosted here (gh-pages).
 
-# Credits
+Credits:
 
 Original README from HTML5 UP:
 
