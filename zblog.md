@@ -17,7 +17,7 @@ Almost-weekly quick thoughts on product strategy, design and UX.
 Users care about thier score. That might be obvious but apparently Google's fit team missed it this time.
 
 <span class="image right imagerightblog">
-<img src="{% link /blog/2020-04-25_google_fit_corona.jpg %}" alt="">
+<img src="{% link /assets/images/2020-04-25_google_fit_corona.jpg %}" alt="">
 </span>
 
 Product's core-followers would care a lot about their score, especially when it comes to personal benchmarks, and of course when it comes to such an intimate and important data like one's personal progress towards achieving better physical fit.
@@ -37,7 +37,7 @@ Here's an example for what a small startup probably would have done better - bei
 
 With the immense promise that AI brings, it is easy to forget how small increments could sometimes make a difference. Here I share a delightful moment for me as a user - when Google Keep added [autocomplete that works really well for groceries](https://www.forbes.com/sites/anthonykarcz/2016/06/02/google-keep-auto-complete/#343cddcf72a5). 
 
-<img src="{% link /blog/2020-04-25google_keep.png %}" alt="google keep autocomplete" style="max-width:50%;">
+<img src="{% link /assets/images/2020-04-25google_keep.png %}" alt="google keep autocomplete" style="max-width:50%;">
 
 <h4>A quick drill-down explaining why autocomplete is an important UX component:</h4>
 Considering that algorithmically the suggestions provided by the autocomplete are good:
@@ -57,7 +57,7 @@ For PMs looking into more details I would recommend the following resources:
 <i>Posted on 01-12-2019.</i>
 
 <span class="image right">
-<img src="{% link /blog/lloyds.png %}" alt="">
+<img src="{% link /assets/images/lloyds.png %}" alt="">
 </span>
 I was immensly lucky to work with Lloyds Banking, one of the biggest banks in the UK during 2018-2019. One of the projects I was part of was aiming to automate mortgage application over the blockchain. 
 <br>  
