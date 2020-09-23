@@ -24,22 +24,16 @@ Check it out [here.](https://hackernoon.com/an-essential-plan-to-get-your-sql-kn
 <h3>Throwing the baby with the bathwater</h3>
 <i>Posted on 22-09-2020.</i>
 
-The Israeli biggest TV&Internet provider came out with their own Netflix.
-
-It has no search option.
-Really, no search option.
-I'm not even kidding.
-
-I'm trying to imagine what the PM there had in mind when deciding to not go for it...I'm trying hard.. but I can't!
+The Israeli biggest TV&Internet provider came out with their own Netflix.<br>
+It has no search option.     Really, no search option.  I'm not even kidding.
 
 <img src="{% link /assets/images/hotNetflixFake.jpeg %}" alt="hot next" style="max-width:50%;">
 
-This gives a new interpretation to Reid Hoffman's saying:
-_"if you're not embarrassed by the first version of your product, you've launched too late"._
-
+This gives a whole new interpretation to Reid Hoffman's saying:
+_"if you're not embarrassed by the first version of your product, you've launched too late"._<br>
 Speed is key, but has to be balanced by user's expectations. 
-Users don't care if you're in beta.
-Users expect some _great experience_.
+**Users don't care if you're in beta.**
+**Users expect some _great experience_.**
 
 If you'd like to make sure that you're not throwing the baby with the bathwater when you launch, here are some resources I recommend starting with:
 
