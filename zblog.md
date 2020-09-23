@@ -18,6 +18,37 @@ Bite-sized thoughts on product strategy, product analytics and UX.
 HackerNoon kindly posted the game plan I created for folks preparing for product analytics interviews.
 Check it out [here.](https://hackernoon.com/an-essential-plan-to-get-your-sql-knowledge-ready-for-interviews-xc3a3te0)
 
+<h2>2020</h2>
+
+<h3>Throwing the baby with the bathwater</h3>
+<i>Posted on 22-09-2020.</i>
+
+The Israeli biggest TV&Internet provider came out with their own Netflix.
+
+It has no search option.
+Really, no search option.
+I'm not even kidding.
+
+I'm trying to imagine what the PM there had in mind when deciding to not go for it...I'm trying hard.. but I can't!
+
+<img src="{% link /assets/images/hotNetflixFake.jpeg %}" alt="hot next" style="max-width:50%;">
+
+This gives a new interpretation to Reid Hoffman's saying:
+_"if you're not embarrassed by the first version of your product, you've launched too late"._
+
+Speed is key, but has to be balanced by user's expectations. 
+Users don't care if you're in beta.
+Users expect some _great experience_.
+
+If you'd like to make sure that you're not throwing the baby with the bathwater when you launch, here are some resources I recommend starting with:
+
+[Roman Pichler product strategy post](https://romanpichler.com/blog/10-tips-creating-agile-product-roadmap/)
+
+[ProductPlan on feature prioritization](https://productplan.com/strategies-prioritize-product-features/)
+
+[foldingburritos on prioritization frameworks](https://foldingburritos.com/product-prioritization-techniques/)
+
+
 
 <h3>Keeping score during Corona</h3>
 <i>Posted on 01-06-2020.</i>
