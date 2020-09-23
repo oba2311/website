@@ -7,10 +7,19 @@ nav-menu: true
 ---
 
 
-Almost-weekly quick thoughts on product strategy, design and UX.
+Quick thoughts on product strategy, product analytics and UX.
 
 ---------------------------------------------------------------
 <h2>2020</h2>
+
+<h3>Honing the tool - a comprehensive guide to sharpen your SQL skills</h3>
+<i>Posted on 23-09-2020.</i>
+
+HackerNoon kindly posted the game plan I created for folks preparing for product analytics interviews.
+Check it out here:
+https://hackernoon.com/an-essential-plan-to-get-your-sql-knowledge-ready-for-interviews-xc3a3te0
+
+
 <h3>Keeping score during Corona</h3>
 <i>Posted on 01-06-2020.</i>
 
