@@ -7,7 +7,7 @@ nav-menu: true
 ---
 
 
-Quick thoughts on product strategy, product analytics and UX.
+Bite-sized thoughts on product strategy, product analytics and UX.
 
 ---------------------------------------------------------------
 <h2>2020</h2>
