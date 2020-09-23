@@ -18,8 +18,6 @@ Bite-sized thoughts on product strategy, product analytics and UX.
 HackerNoon kindly posted the game plan I created for folks preparing for product analytics interviews.
 Check it out [here.](https://hackernoon.com/an-essential-plan-to-get-your-sql-knowledge-ready-for-interviews-xc3a3te0)
 
-<h2>2020</h2>
-
 <h3>Throwing the baby with the bathwater</h3>
 <i>Posted on 22-09-2020.</i>
 
