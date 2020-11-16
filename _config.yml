@@ -1,6 +1,7 @@
 # site settings
 # title: OBA
-subtitle: ./assets/images/logo2.png
+# subtitle: ./assets/images/logo2.png
+subtitle: OBA Consulting 2019
 email: oba2311@gmail.com
 description: I'm Omer, a product manager focused on building data-intensive products.
 baseurl: "" # the subpath of your site, e.g. /blog
