@@ -9,6 +9,7 @@ nav-menu: true
 Bite-sized thoughts on product strategy, product analytics and UX.
 
 <h2>All Posts:</h2>
+[Why I'm working with DAGsHub](#Why I'm working with DAGsHub)  
 [Honing the tool - a comprehensive guide to sharpen your SQL skills](#Honing the tool - a comprehensive guide to sharpen your SQL skills)  
 [Throwing the baby with the bathwater](#Throwing the baby with the bathwater)  
 [Keeping score during Corona](#Keeping score during Corona)  
@@ -19,6 +20,19 @@ Bite-sized thoughts on product strategy, product analytics and UX.
 ---
 
 <h2>2020</h2>
+
+<h3>Why I'm working with DAGsHub</h3>  
+The past two years have taught me two lessons that I can (and should) not ignore:
+1. It is easy for so-called "hard tech companies" to underestimate the importance of marketing.  
+2. It is easy and common to underestimate the importance of collaboration in data-science projects (and software engineering, generally).
+
+Regarding the first point - just this past month I had two different and unrelated conversations with mentors about how R&D managers tend to overlook marketing and sales efforts (of course - generally and broadly speaking). Apparently, this is a cross-sector and very wide issue.
+
+Regarding team work on technical projects, and especially data-science: from impact perspective, it is all the more obviuos that working on the right task becomes more important than ever today. We see a very strong trend to outsource big chunks of code-writing, mostly with teams in Eastern Europe. I'm thinking this will only grow even more. Therefore, communication and clarity becomes key, and importance of those will likely increase even more over time.
+
+DAGsHub tackles exactly those two aspects. The marketing challenge is right on the nose - DAGs is looking to grow its community as a northstart KPI; that is the main focus and it is an extremely unique opportunity to help this effort.
+Regarding collaboration on technical projects  - that is exactly the produt. The platform lets teams work better together and DAGs is laser-focused on solving exactly this challenge.
+
 
 <h3 id = "sql">Honing the tool - a comprehensive guide to sharpen your SQL skills</h3>
 <i>Posted on 23-09-2020.</i>
