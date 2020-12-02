@@ -9,19 +9,22 @@ nav-menu: true
 Bite-sized thoughts on product strategy, product analytics and UX.
 
 <h2>All Posts:</h2>
-[Why I'm working with DAGsHub](#Why I'm working with DAGsHub)  
-[Honing the tool - a comprehensive guide to sharpen your SQL skills](#Honing the tool - a comprehensive guide to sharpen your SQL skills)  
-[Throwing the baby with the bathwater](#Throwing the baby with the bathwater)  
-[Keeping score during Corona](#Keeping score during Corona)  
-[Small increments that delight users](#Small increments that delight users)  
-[Automating banking in the UK](#Automating banking in the UK)  
-[DataScience @ Gartner Innovation Center](#DataScience @ Gartner Innovation Center)
+[Why I'm working with DAGsHub](#dags)  
+[Honing the tool - a comprehensive guide to sharpen your SQL skills](#sql)  
+[Throwing the baby with the bathwater](#hot)  
+[Keeping score during Corona](#google)  
+[Small increments that delight users](#increments)  
+[Automating banking in the UK](#lloyds)  
+[DataScience @ Gartner Innovation Center](#Gartner)
 
 ---
 
 <h2>2020</h2>
 
-<h3>Why I'm working with DAGsHub</h3>  
+<h3><a id="dags">Why I'm working with    DAGsHub</a></h3>  
+<i>Posted on 01-12-2020.</i>
+
+
 The past two years have taught me two lessons that I can (and should) not ignore:
 1. It is easy for so-called "hard tech companies" to underestimate the importance of marketing.  
 2. It is easy and common to underestimate the importance of collaboration in data-science projects (and software engineering, generally).
@@ -33,6 +36,10 @@ Regarding team work on technical projects, and especially data-science: from imp
 DAGsHub tackles exactly those two aspects. The marketing challenge is right on the nose - DAGs is looking to grow its community as a northstart KPI; that is the main focus and it is an extremely unique opportunity to help this effort.
 Regarding collaboration on technical projects  - that is exactly the produt. The platform lets teams work better together and DAGs is laser-focused on solving exactly this challenge.
 
+While I did not plan to commit to any other project this year, this is just too relevant, too important and too interesting to say no to.
+
+---
+
 
 <h3 id = "sql">Honing the tool - a comprehensive guide to sharpen your SQL skills</h3>
 <i>Posted on 23-09-2020.</i>
@@ -42,7 +49,7 @@ Check it out [here.](https://hackernoon.com/an-essential-plan-to-get-your-sql-kn
 
 ---
 
-<h3>Throwing the baby with the bathwater</h3>
+<h3 id="hot">Throwing the baby with the bathwater</h3>
 <i>Posted on 22-09-2020.</i>
 
 The Israeli biggest TV&Internet provider came out with their own Netflix.<br>
@@ -66,7 +73,7 @@ If you'd like to make sure that you're not throwing the baby with the bathwater 
 
 ---
 
-<h3>Keeping score during Corona</h3>
+<h3 id="google">Keeping score during Corona</h3>
 <i>Posted on 01-06-2020.</i>
 
 Users care about thier score. That might be obvious but apparently Google's fit team missed it this time.
@@ -88,7 +95,7 @@ Here's an example for what a small startup probably would have done better - bei
 
 ---
 
-<h3>Small increments that delight users</h3>
+<h3 id="increments">Small increments that delight users</h3>
 <i>Posted on 25-04-2020.</i>
 
 With the immense promise that AI brings, it is easy to forget how small increments could sometimes make a difference. Here I share a delightful moment for me as a user - when Google Keep added [autocomplete that works really well for groceries](https://www.forbes.com/sites/anthonykarcz/2016/06/02/google-keep-auto-complete/#343cddcf72a5).
@@ -111,7 +118,7 @@ For PMs looking into more details I would recommend the following resources:
 ---
 
 <h2>2019 </h2>
-<h3>Automating banking in the UK</h3>
+<h3 id="lloyds">Automating banking in the UK</h3>
 <i>Posted on 01-12-2019.</i>
 
 <span class="image right">
@@ -127,7 +134,7 @@ I co-authored [a whitepaper](https://www.fca.org.uk/innovation/regtech/digital-r
 ---
 
 <h2>2017 </h2>
-<h3>DataScience @ Gartner Innovation Center</h3>
+<h3 id="Gartner">DataScience @ Gartner Innovation Center</h3>
 <i>Posted on 03-11-2017.</i>
 
 This past summer I was lucky to work for Gartner, at their innovation center in Tel-Aviv, Israel (called "GICI"). I worked as a datascientist on three different projects: one was a BI-style project, one was on a recommendation system, and one focused on ways to leverage big-data.
