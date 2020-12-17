@@ -9,6 +9,7 @@ nav-menu: true
 Bite-sized thoughts on product strategy, product analytics and UX.
 
 <h2>All Posts:</h2>
+[New Podcast!](#podcast)  
 [Why I'm working with DAGsHub](#dags)  
 [Honing the tool - a comprehensive guide to sharpen your SQL skills](#sql)  
 [Throwing the baby with the bathwater](#hot)  
@@ -21,7 +22,15 @@ Bite-sized thoughts on product strategy, product analytics and UX.
 
 <h2>2020</h2>
 
-<h3><a id="dags">Why I'm working with    DAGsHub</a></h3>  
+<h3><a id="podcast">New Podcast</a></h3>  
+<i>Posted on 17-12-2020.</i>
+
+I'm starting a pocast!  
+I've realized that I've been having a ton of intersting conversation with friends about their careers and how they planed and strategized around career-decisions and so - here it is now available both live and offline. Tune in here:
+<a href="https://capiche.fm/a-foot-in-the-door">https://capiche.fm/a-foot-in-the-door</a>
+
+
+<h3><a id="dags">Why I'm working with DAGsHub</a></h3>  
 <i>Posted on 01-12-2020.</i>
 
 
